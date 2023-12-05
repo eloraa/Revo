@@ -1,4 +1,4 @@
-# Labela
+# Revo
 
 It's a simple tech product management website with voting, coupons, and a user management system.
 This repo contains both client and server code.
